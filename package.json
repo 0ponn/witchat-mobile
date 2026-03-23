@@ -1,0 +1,9 @@
+{
+  "name": "witchat-server",
+  "version": "1.0.0",
+  "description": "Witchat Socket Server",
+  "main": "socket-server.js",
+  "dependencies": {
+    "socket.io": "^4.7.2"
+  }
+}

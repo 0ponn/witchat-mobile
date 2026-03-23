@@ -1,0 +1,9 @@
+storePassword=YOUR_STORE_PASSWORD
+keyPassword=YOUR_KEY_PASSWORD
+keyAlias=upload
+storeFile=/home/mlayug/upload-keystore.jks
+
+# Fedora/Linux Build Note:
+# If the build fails with a "JAVA_COMPILER" error, add the following to your local
+# gradle.properties (pointing to your JDK, not just the JRE):
+# org.gradle.java.home=/usr/lib/jvm/java-17-openjdk

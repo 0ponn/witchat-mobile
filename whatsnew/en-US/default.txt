@@ -1,0 +1,7 @@
+Welcome to Witchat - Anonymous Ephemeral Chat
+
+- Real-time messaging with mood-synced ambiance
+- Rule of Three: newest messages stay visible, older ones fade
+- Topic subscriptions with sound notifications
+- Banishment: long-press to block unwanted messages
+- Circle Timer warns when rooms are about to expire
